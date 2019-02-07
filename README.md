@@ -5,7 +5,7 @@
 - create a new repository on the command line
   - echo "# Laravel5.7-PHP7.2-MySql-Bootstrap-Starter" >> README.md
   - git init
-  - git add README.md
+  - git add .
   - git commit -m "first commit"
   - git remote add origin https://github.com/username/your_repo_on_github.git
   - git push -u origin master
